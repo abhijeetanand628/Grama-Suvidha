@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">ಗ್ರಾಮ-ಸುವಿಧಾ</string>
+    <string name="projects_title">ಸ್ಥಳೀಯ ಯೋಜನೆಗಳು</string>
+    <string name="budget">ಬಜೆಟ್:</string>
+    <string name="status">ಸ್ಥಿತಿ:</string>
+    <string name="progress">ಪ್ರಗತಿ:</string>
+    <string name="completion_date">ನಿರೀಕ್ಷಿತ ಪೂರ್ಣಗೊಳ್ಳುವಿಕೆ:</string>
+    <string name="citizen_feedback">ನಾಗರಿಕರ ಪ್ರತಿಕ್ರಿಯೆ</string>
+    <string name="report_issue">ಸಮಸ್ಯೆಯನ್ನು ವರದಿ ಮಾಡಿ</string>
+    <string name="submit">ಸಲ್ಲಿಸಿ</string>
+    <string name="before_img">ಮೊದಲು</string>
+    <string name="after_img">ನಂತರ</string>
+    <string name="issue_description">ಸಮಸ್ಯೆಯನ್ನು ವಿವರಿಸಿ...</string>
+    <string name="feedback_submitted">ಪ್ರತಿಕ್ರಿಯೆ ಸಲ್ಲಿಸಲಾಗಿದೆ</string>
+    <string name="change_language">ಇಂಗ್ಲಿಷ್ ಗೆ ಬದಲಾಯಿಸಿ</string>
+    <string name="offline_mode">ಆಫ್‌ಲೈನ್ ಮೋಡ್</string>
+    <string name="feedback_empty">ದಯವಿಟ್ಟು ಸಲ್ಲಿಸುವ ಮೊದಲು ಫಾರ್ಮ್ ಅನ್ನು ಭರ್ತಿ ಮಾಡಿ</string>
+    <string name="hero_title">ಗ್ರಾಮ-ಸುವಿಧಾ ಪೋರ್ಟಲ್</string>
+    <string name="hero_subtitle">ಡಿಜಿಟಲ್ ಪ್ರಗತಿ ಮತ್ತು ಗ್ರಾಮೀಣ ಪಾರದರ್ಶಕತೆ</string>
+    <string name="admin_login">ನಿರ್ವಾಹಕರ ಲಾಗಿನ್</string>
+    <string name="enter_password">ಪಾಸ್‌ವರ್ಡ್ ನಮೂದಿಸಿ</string>
+    <string name="password">ಪಾಸ್‌ವರ್ಡ್</string>
+    <string name="incorrect_password">ತಪ್ಪಾದ ಪಾಸ್‌ವರ್ಡ್</string>
+    <string name="login">ಲಾಗಿನ್</string>
+    <string name="cancel">ರದ್ದು</string>
+    <string name="update_progress">ಪ್ರಗತಿ ನವೀಕರಿಸಿ</string>
+    <string name="save_progress">ಪ್ರಗತಿ ಉಳಿಸಿ</string>
+    <string name="logout">ಲಾಗ್ ಔಟ್</string>
+    <string name="add_project">ಯೋಜನೆ ಸೇರಿಸಿ</string>
+    <string name="project_name">ಯೋಜನೆಯ ಹೆಸರು</string>
+    <string name="description">ವಿವರಣೆ</string>
+    <string name="expected_date">ನಿರೀಕ್ಷಿತ ದಿನಾಂಕ (YYYY-MM-DD)</string>
+    <string name="save_project">ಯೋಜನೆಯನ್ನು ಉಳಿಸಿ</string>
+</resources>

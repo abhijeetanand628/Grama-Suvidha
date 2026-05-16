@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Grama-Suvidha</string>
+    <string name="projects_title">Local Projects</string>
+    <string name="budget">Budget:</string>
+    <string name="status">Status:</string>
+    <string name="progress">Progress:</string>
+    <string name="completion_date">Expected Completion:</string>
+    <string name="citizen_feedback">Citizen Feedback</string>
+    <string name="report_issue">Report Issue</string>
+    <string name="submit">Submit</string>
+    <string name="before_img">Before</string>
+    <string name="after_img">After</string>
+    <string name="issue_description">Describe the issue...</string>
+    <string name="feedback_submitted">Feedback Submitted</string>
+    <string name="change_language">Switch to Kannada</string>
+    <string name="offline_mode">Connecting Offline...</string>
+    <string name="feedback_empty">Please fill the form before submitting</string>
+    <string name="hero_title">Grama-Suvidha Portal</string>
+    <string name="hero_subtitle">Visualizing Digital Progress &amp; Enhancing Rural Transparency</string>
+    <string name="admin_login">Administrator Login</string>
+    <string name="enter_password">Enter Admin Password</string>
+    <string name="password">Password</string>
+    <string name="incorrect_password">Incorrect password</string>
+    <string name="login">Login</string>
+    <string name="cancel">Cancel</string>
+    <string name="update_progress">Update Progress</string>
+    <string name="save_progress">Save Progress</string>
+    <string name="logout">Logout</string>
+    <string name="add_project">Add Project</string>
+    <string name="project_name">Project Name</string>
+    <string name="description">Description</string>
+    <string name="expected_date">Expected Date (YYYY-MM-DD)</string>
+    <string name="save_project">Save Project</string>
+</resources>

@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Main Road Repair",
+    "nameKn": "ಮುಖ್ಯ ರಸ್ತೆ ದುರಸ್ತಿ",
+    "description": "Repairing village main road connecting to the highway.",
+    "descriptionKn": "ಹೆದ್ದಾರಿಗೆ ಸಂಪರ್ಕಿಸುವ ಗ್ರಾಮದ ಮುಖ್ಯ ರಸ್ತೆಯ ದುರಸ್ತಿ.",
+    "budget": 500000,
+    "progress": 60,
+    "status": "In Progress",
+    "statusKn": "ಪ್ರಗತಿಯಲ್ಲಿದೆ",
+    "expectedCompletion": "2026-06-15",
+    "beforeImage": "https://picsum.photos/seed/road1/600/400",
+    "afterImage": "https://picsum.photos/seed/road2/600/400"
+  },
+  {
+    "id": 2,
+    "name": "Community Library",
+    "nameKn": "ಸಮುದಾಯ ಗ್ರಂಥಾಲಯ",
+    "description": "Construction of a new library building for students and public.",
+    "descriptionKn": "ವಿದ್ಯಾರ್ಥಿಗಳು ಮತ್ತು ಸಾರ್ವಜನಿಕರಿಗಾಗಿ ಹೊಸ ಗ್ರಂಥಾಲಯ ಕಟ್ಟಡದ ನಿರ್ಮಾಣ.",
+    "budget": 200000,
+    "progress": 85,
+    "status": "Near Completion",
+    "statusKn": "ಮುಕ್ತಾಯದ ಹಂತದಲ್ಲಿದೆ",
+    "expectedCompletion": "2026-05-20",
+    "beforeImage": "https://picsum.photos/seed/library1/600/400",
+    "afterImage": "https://picsum.photos/seed/library2/600/400"
+  },
+  {
+    "id": 3,
+    "name": "Pond Rejuvenation",
+    "nameKn": "ಕೆರೆ ಪುನರುಜ್ಜೀವನ",
+    "description": "Desilting and rejuvenation of the old village pond for rainwater storage.",
+    "descriptionKn": "ಮಳೆನೀರು ಶೇಖರಣೆಗಾಗಿ ಹಳೆಯ ಗ್ರಾಮದ ಕೆರೆಯ ಹೂಳೆತ್ತುವಿಕೆ ಮತ್ತು ಪುನರುಜ್ಜೀವನ.",
+    "budget": 150000,
+    "progress": 30,
+    "status": "In Progress",
+    "statusKn": "ಪ್ರಗತಿಯಲ್ಲಿದೆ",
+    "expectedCompletion": "2026-08-10",
+    "beforeImage": "https://picsum.photos/seed/pond1/600/400",
+    "afterImage": "https://picsum.photos/seed/pond2/600/400"
+  },
+  {
+    "id": 4,
+    "name": "Borewell Installation",
+    "nameKn": "ಕೊಳವೆಬಾವಿ ಅಳವಡಿಕೆ",
+    "description": "Installation of an additional borewell in the eastern quadrant.",
+    "descriptionKn": "ಪೂರ್ವ ಭಾಗದಲ್ಲಿ ಹೆಚ್ಚುವರಿ ಕೊಳವೆಬಾವಿ ಅಳವಡಿಕೆ.",
+    "budget": 80000,
+    "progress": 100,
+    "status": "Completed",
+    "statusKn": "ಪೂರ್ಣಗೊಂಡಿದೆ",
+    "expectedCompletion": "2026-03-10",
+    "beforeImage": "https://picsum.photos/seed/well1/600/400",
+    "afterImage": "https://picsum.photos/seed/well2/600/400"
+  }
+]
